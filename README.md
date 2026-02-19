@@ -3,7 +3,7 @@
 I like building things and seeing what happens.
 
 This is where I keep my projects, experiments, and random ideas I wanted to try.  
-Some work, some don’t — but that’s part of the fun.
+Some work, some don’t but that’s part of the fun.
 
 ### Platform, Tools & Language
 
